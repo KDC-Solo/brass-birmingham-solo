@@ -7,7 +7,7 @@ Automa as your opponent, so nothing needs to be tracked by hand: legal moves,
 resource sourcing, markets, income, era scoring and all 22 Automa cards are
 automated.
 
-**▶ Play it: https://kdc-solo.github.io/brass-birmingham/**
+**▶ Play it: [https://solo.kdc.sh/brass-birmingham/](https://solo.kdc.sh/brass-birmingham/)**
 
 | Desktop (light) | Desktop (dark) |
 | --- | --- |
